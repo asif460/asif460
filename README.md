@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm  Asif Karim a computer science student .<br>I have strong expertise in front-end development.<br>I am currently learning cybersecurity.
+I'm  Asif Karim a computer science student .<br>I have strong expertise in front-end development.
 
 
 ## 🌐 Socials:
